@@ -1,8 +1,12 @@
 # LLMs, RAG, OpenWebUI
 
+![alt text](intro.png)
+
 ---
 
 # Icebreaker Quiz questions
+
+![alt text](quiz.png)
 
 ---
 
@@ -117,6 +121,10 @@ We want a "customized" LLM - there are several possibilities without retraining 
 The context window is the whole input to a LLM. This is typically 32-128kb. This makes it impossible to include large data (as in a big document or millions of documents).
 
 RAG to the rescue!
+
+Also:
+
+Training LLMs / LoRA is expensive and time consuming, it isn't physically possible to do this reguarly (daily) for the newest information.
 
 ---
 
