@@ -131,7 +131,14 @@ Training LLMs / LoRA is expensive and time consuming, it isn't physically possib
 ## What does RAG even do?
 
 Enriches the input to the LLM.
+
 This is just additional text nothing magical.
+
+An Input for an LLM consists of:
+
+- System prompt
+- Context <-- RAG enriches the context
+- User prompt
 
 ---
 
