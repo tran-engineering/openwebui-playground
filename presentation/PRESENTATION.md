@@ -40,15 +40,19 @@ At the very core they *just* predict the next word.
 
 ## What LLMs do you know?
 
-- GPT3, 4, 5: Commonly known as ChatGPT. Closed Source by OpenAI
-- Gemini: Closed Source by Google
+Closed source:
+
+- GPT3, 4, 5 (Commonly known as ChatGPT - OpenAI)
+- Gemini (Google)
 - Claude: Closed Source by Anthropic
 - Grok: Closed Source by X
 
-- Gemma: Open Source by Google
-- LLaMA 2: Open Source by Meta
-- Mistral: Open Source by Mistral AI
-- DeepSeek: Open Source by DeepSeek AI
+"somewhat" open source:
+
+- Gemma: (Google)
+- LLaMA 2: (Meta)
+- Mistral: (Mistral AI)
+- DeepSeek: (DeepSeek AI)
 
 ---
 
@@ -59,7 +63,7 @@ The following aspects can be accessible or not per LLM:
 - Code: How the LLM is build/trained
 - Neuronal architecture: Design of the model - layers, connections, structure.
 - Training Data: partially / fully / described
-- Final Weights on neuronal connections
+- Parameters: Weights / Biases
 
 ---
 
