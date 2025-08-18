@@ -188,3 +188,14 @@ An Input for an LLM consists of:
 ---
 
 # OpenWebUI with RAG demo
+
+
+---
+
+## Ollama on AWS on-demand?
+
+AWS can run GPU-equipped EC2 instances (g4dn.xlarge or g5.xlarge) and might be a viable way to
+deploy a setup in SBB.
+
+Costs:
+- g4dn.xlarge: ~500$ / month
