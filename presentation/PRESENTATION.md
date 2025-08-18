@@ -199,3 +199,5 @@ deploy a setup in SBB.
 
 Costs:
 - g4dn.xlarge: ~500$ / month
+
+Fun trivia: OpenWebUI can also be used for vibe coding ("Continue" plugin for VS Code / IntelliJ)
