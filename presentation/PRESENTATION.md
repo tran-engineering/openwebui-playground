@@ -24,7 +24,7 @@ They are basically Text-2-Text transformers.
 
 ---
 
-# How do LLMs work?
+## How do LLMs work?
 
 At the very core they *just* predict the next word.
 
