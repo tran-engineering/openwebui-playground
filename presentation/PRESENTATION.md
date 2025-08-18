@@ -96,6 +96,12 @@ Ollama stands for: Open LLM for All Machines
 
 ## Ollama demo
 
+See
+
+https://github.com/tran-engineering/openwebui-playground
+
+To run it locally on your computer
+
 ---
 
 # Do you know OpenWebUI?
@@ -103,6 +109,12 @@ Ollama stands for: Open LLM for All Machines
 ---
 
 ## OpenWebUI Demo
+
+See
+
+https://github.com/tran-engineering/openwebui-playground
+
+To run it locally on your computer
 
 ---
 
